@@ -1,0 +1,87 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    border: 2px solid black;
+    height: 555px;
+    width: 850px;
+    margin: 80px 0px 0px 380px;
+    background-color: silver;
+}
+.div1{
+    border: 2px solid rgb(4, 5, 4);
+    height: 460px;
+    width: 790px;
+    margin: 45px 0px 0px 17px;
+    border-radius: 20px;
+    background-color: white;
+}
+h1{
+    margin: 20px;
+}
+h4{
+    margin: 20px;
+    font-size: 25px;
+    font-family:cursive;
+    color: lightgrey;
+}
+input{
+    border: 2px solid black;
+}
+input{
+    height: 50px;
+    width: 185px;
+    margin:0px 0px 0px 20px;
+}
+button{
+    margin: 0px 0px 70px 65px;
+    padding: 10px;
+}
+.button1{
+    border:2px solid rgb(0, 0, 0);
+    color: white;
+    background-color: rgb(33, 131, 170);
+    border-radius:20px ;
+    width:200px;
+    height:50px;
+    margin: 70px 0px 0px 30px;
+}
+.button2{
+    border:2px solid rgb(8, 8, 8);
+    color: white;
+    background-color:rgb(124, 18, 18);
+    border-radius:20px ;
+    width:200px;
+    height:50px;
+    margin: 70px 0px 0px 30px;
+}
+.button3{
+    border:2px solid rgb(7, 8, 7);
+    color: white;
+    background-color:rgb(13, 65, 13);
+    border-radius:20px ;
+    width:200px;
+    height:50px;
+    margin: 70px 0px 0px 30px;
+}
+
+.col-6 button{
+    margin: 1px 0px 0px -190px;
+    height: 50px;
+    width:100px;
+    border:2px solid rgb(0, 0, 0);
+    color: white;
+    border-radius: 20px;
+    background-color: rgb(47, 150, 190);
+
+}
+h3{
+    margin: 0px 0px 0px 25px;
+}
+.h31{
+    margin: 0px 20px 0px 25px;
+    background-color: gray;
+    text-decoration:line-through;
+    
+}
